@@ -1,0 +1,11 @@
+{
+    "name": "Voice Reader App",
+    "short_name": "Voice Reader",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "A Flutter app for reading text aloud",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false
+}
