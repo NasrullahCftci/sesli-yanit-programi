@@ -1,0 +1,1 @@
+ build\\web\\manifest.json:  C:\\Users\\hasan\\OneDrive\\Masaüstü\\sesli\ yanit\ programi\\web\\index.html C:\\Users\\hasan\\OneDrive\\Masaüstü\\sesli\ yanit\ programi\\web\\manifest.json
